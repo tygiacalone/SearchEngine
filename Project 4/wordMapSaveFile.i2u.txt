@@ -1,0 +1,5 @@
+41\www.fusc.com
+18467\www.testing.com
+6334\http://www.yahoo.com/main
+26500\http://www.nytimes.com/
+19169\http://www.symantec.com/enterprise

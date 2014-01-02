@@ -1,0 +1,5 @@
+www.fusc.com\41
+http://www.yahoo.com/main\6334
+www.testing.com\18467
+http://www.nytimes.com/\26500
+http://www.symantec.com/enterprise\19169
